@@ -27,3 +27,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Updated .gitignore to exclude build artifacts
 - Verified API endpoint response schema
+
+## 2026-03-30
+- Investigated performance bottleneck, noted findings
+- Tidied up project structure
